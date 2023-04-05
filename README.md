@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP 1 | Data Analysis |  [Indian Startup Analysis](https://github.com/Yollam-ai/LP-1/blob/main/article/article.docx ) | [App](/https://github.com/Yollam-ai/LP-1/tree/main/code) |
+| LP 1 | Data Analysis |  [Indian Startup Analysis](https://github.com/Yollam-ai/LP-1/blob/main/article/article.docx ) | [App](/https://github.com/Yollam-ai/LP-1/blob/main/code) |
 
 ## Project Description
 In this project, We are going to analyze funding received by start-ups in India from 2018 to 2021. Data for each year of funding is located in a separate csv file in the dataset provided. In these files are the start-ups' details, the funding amounts received, and the investors' information.

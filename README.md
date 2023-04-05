@@ -17,31 +17,31 @@ Installation
 
 Here is the section to install all the packages/libraries that will be needed to tackle the challlenge.
 
-### !pip install -q   ...
+##!pip install -q   ...
      
 Importation
 
 Here is the section to import all the packages/libraries that will be used through this notebook.
 
-### Data handling
+##Data handling
 import pandas as pd
 
-### Vizualisation (Matplotlib, Plotly, Seaborn, etc. )
+##Vizualisation (Matplotlib, Plotly, Seaborn, etc. )
 ...
 
-### EDA (pandas-profiling, etc. )
+##EDA (pandas-profiling, etc. )
 ...
 
-### Feature Processing (Scikit-learn processing, etc. )
+##Feature Processing (Scikit-learn processing, etc. )
 ...
 
-### Machine Learning (Scikit-learn Estimators, Catboost, LightGBM, etc. )
+##Machine Learning (Scikit-learn Estimators, Catboost, LightGBM, etc. )
 ...
 
-### Hyperparameters Fine-tuning (Scikit-learn hp search, cross-validation, etc. )
+##Hyperparameters Fine-tuning (Scikit-learn hp search, cross-validation, etc. )
 ...
 
-### Other packages
+##Other packages
 import os
 
      
